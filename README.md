@@ -43,3 +43,7 @@ This project implements a basic FIR Filter using Verilog. The filter processes s
 iverilog -o fir_test tb_fir_filter.v fir_filter.v
 vvp fir_test
 gtkwave fir_wave.vcd# DIGITAL-FILTER-DESIGN
+
+---
+
+Would you like the **MATLAB version** of the FIR filter design too? Or do you want this turned into a **PDF internship report**?
